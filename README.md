@@ -81,6 +81,7 @@ The aim of this wee document was to try and collect together links to as many [T
 - [parq-inspector](https://github.com/jkausti/parq-inspector) - Parquet viewer for your terminal.
 - [PISpy](https://github.com/davep/pispy) - A simple client for looking up package information in the Python package index.
 - [Pocker](https://github.com/pommee/Pocker) - TUI based application for docker related tasks.
+- [Posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal. 
 - [prune-envs](https://github.com/davidfokkema/prune-envs) - Prune (conda) Environments.
 - [pqviewer](https://github.com/thread53/pqviewer) - View Apache Parquet files in your terminal.
 - [Quizzical](https://github.com/davep/quizzical) - A terminal-based trivia quiz.
