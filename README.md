@@ -65,6 +65,7 @@ The aim of this wee document was to try and collect together links to as many [T
 - [hexabyte](https://github.com/thetacom/hexabyte) - A modern, modular, and robust TUI hex editor.
 - [http-tui](https://github.com/treyhunner/http-tui) - A client for testing out HTTP requests.
 - [HumBLE Explorer](https://github.com/koenvervloesem/humble-explorer) - A cross-platform, command-line and human-friendly Bluetooth Low Energy scanner.
+- [Ignori](https://github.com/EGAMAGZ/ignori) - Generate .gitignore file without leaving the terminal.
 - [jpterm](https://github.com/davidbrochart/jpterm) - Jupyter in the terminal.
 - [kaskade](https://github.com/sauljabin/kaskade) - A kafka text user interface.
 - [kupo](https://github.com/darrenburns/kupo) - A terminal-based file browser.
