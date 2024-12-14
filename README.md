@@ -31,6 +31,7 @@ The aim of this wee document is to try and collect together links to as many [Te
 - [textual-pyfiglet](https://github.com/edward-jazzhands/textual-pyfiglet) - Library that provides a 'FigletWidget' to integrate PyFiglet into Textual
 - [textual-qrcode](https://github.com/davep/textual-qrcode) - Library that provides a simple QR code widget, using https://qrenco.de/ as the backend.
 - [textual-slider](https://github.com/TomJGooding/textual-slider) - A Textual widget for a simple slider.
+- [textual-spinbox](https://github.com/friscorose/textual-spinbox) - A Textual spinbox widget (also in pypi).
 - [textual-terminal](https://github.com/mitosch/textual-terminal) - Library that provides a terminal widget; which can be used to embed other terminal applications inside a Textual application.
 - [textual-universal-directorytree](https://github.com/juftin/textual-universal-directorytree) - Textual plugin for a `DirectoryTree` compatible with remote filesystems.
 - [tuilwindcss](https://github.com/koaning/tuilwindcss) - A project inspired by tailwind.css to offer a similar set of classes that can be used directly to construct TUI apps with Textual.
