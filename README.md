@@ -76,6 +76,7 @@ The aim of this wee document is to try and collect together links to as many [Te
 - [kupo](https://github.com/darrenburns/kupo) - A terminal-based file browser.
 - [langchain-serve](https://github.com/jina-ai/langchain-serve) - babyagi-as-a-service playground.
 - [lsp-devtools](https://github.com/swyddfa/lsp-devtools) - Tooling for working with language servers and clients.
+- [Lugus](https://github.com/OpenCode/lugus) - A feed reader for the terminal.
 - [mandelexp](https://github.com/davep/textual-mandelbrot) - A Textual Mandelbrot explorer for the terminal.
 - [mlauncher-cli](https://github.com/drHyperion451/mlauncher-cli) - Master Launcher: A classic-like launcher for the Master Levels of Doom2.
 - [moulti](https://github.com/xavierog/moulti) - Moulti is a CLI-driven Terminal User Interface (TUI) that enables you to assign the numerous lines emitted by your scripts to visual, collapsible blocks called steps.
