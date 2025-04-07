@@ -31,9 +31,8 @@ The aim of this wee document is to try and collect together links to as many [Te
 - [textual-hires-canvas](https://github.com/davidfokkema/textual-hires-canvas) - High-resolution drawing canvas for Textual apps.
 - [textual-imageview](https://github.com/adamviola/textual-imageview) - Terminal-based image-viewing widget library and application.
 - [textual-pandas](https://github.com/dannywade/textual-pandas) - A module to display Pandas dataframes in Textual.
-- [textual-pyfiglet](https://github.com/edward-jazzhands/textual-pyfiglet) - Library that provides a `FigletWidget` to integrate PyFiglet into Textual
 - [textual-plot](https://github.com/davidfokkema/textual-plot) - A native plotting widget for Textual apps with zooming/panning support.
-- [textual-pyfiglet](https://github.com/edward-jazzhands/textual-pyfiglet) - Library that provides a 'FigletWidget' to integrate PyFiglet into Textual
+- [textual-pyfiglet](https://github.com/edward-jazzhands/textual-pyfiglet) - Library that provides a `FigletWidget` to integrate PyFiglet into Textual
 - [textual-qrcode](https://github.com/davep/textual-qrcode) - Library that provides a simple QR code widget, using https://qrenco.de/ as the backend.
 - [textual-slidecontainer](https://github.com/edward-jazzhands/textual-slidecontainer) - Provides a new container, the `SlideContainer`. Makes it easy to create sliding or hidden menu bars.
 - [textual-slider](https://github.com/TomJGooding/textual-slider) - A Textual widget for a simple slider.
