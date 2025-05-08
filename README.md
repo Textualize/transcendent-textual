@@ -66,6 +66,7 @@ The aim of this wee document is to try and collect together links to as many [Te
 - [Flameshow](https://github.com/laixintao/flameshow) - A terminal Flamegraph viewer.
 - [Frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal.
 - [fivepyfive](https://github.com/davep/fivepyfive) - An annoying puzzle for the terminal.
+- [flui](https://github.com/dragonfly-science/flui) - Flui is a command-line tool for rapidly sub-typing avian influenza viruses without doing full assemblies.
 - [FV-1 Programmer](https://github.com/audiofab/fv1_programmer) - Textual-based UI for programming the Audiofab Easy Spin effects pedal.
 - [girok](https://github.com/noisrucer/girok) - A powerful terminal-based task manager which provides a multitude of scheduling operations that can be done in less than 10 seconds.
 - [gptextual](https://github.com/stefankirchfeld/gptextual) - A terminal-based chat client for various LLMs built with Textual.
@@ -133,6 +134,7 @@ The aim of this wee document is to try and collect together links to as many [Te
 - [vignore](https://github.com/james4ever0/vignore) - A powerful tool to visualize ignored files.
 - [visual-selection](https://github.com/davep/visual-selection) - A terminal-based visualisation of natural selection with mutation.
 - [words-tui](https://github.com/anze3db/words-tui) - An app for daily writing.
+- [zodiac](https://github.com/darkshapes/zodiac) - AI workflow builder for artists and researchers
 
 ## Other resources
 
