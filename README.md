@@ -50,6 +50,7 @@ The aim of this wee document is to try and collect together links to as many [Te
 - [bagels](https://github.com/EnhancedJax/Bagels) - Powerful expense tracker that lives in your terminal.
 - [browsr](https://github.com/juftin/browsr) - A pleasant file explorer in your terminal.
 - [budgetize](https://github.com/fer-hnndz/budgetize) - A Terminal User Interface (TUI) to create budgets, track your incomes/expenses and manage your finances.
+- [close-mongo-ops-manager](https://github.com/closeio/close-mongo-ops-manager) - A simple TUI for monitoring and killing MongoDB operations.
 - [coBib](https://gitlab.com/cobib/cobib) - A simple, command-line based bibliography management tool.
 - [Datadog QA](https://datadoghq.dev/ddqa/) - Datadog's QA manager for releases of GitHub repositories.
 - [dcmetro](https://github.com/HarunFeraidon/dcmetro) - Command line app for sending commands to get live information on the DC Metro.
@@ -94,7 +95,7 @@ The aim of this wee document is to try and collect together links to as many [Te
 - [parq-inspector](https://github.com/jkausti/parq-inspector) - Parquet viewer for your terminal.
 - [PISpy](https://github.com/davep/pispy) - A simple client for looking up package information in the Python package index.
 - [Pocker](https://github.com/pommee/Pocker) - TUI based application for docker related tasks.
-- [Posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal. 
+- [Posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [prune-envs](https://github.com/davidfokkema/prune-envs) - Prune (conda) Environments.
 - [pqviewer](https://github.com/thread53/pqviewer) - View Apache Parquet files in your terminal.
 - [Quizzical](https://github.com/davep/quizzical) - A terminal-based trivia quiz.
