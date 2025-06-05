@@ -136,6 +136,7 @@ The aim of this wee document is to try and collect together links to as many [Te
 - [visual-selection](https://github.com/davep/visual-selection) - A terminal-based visualisation of natural selection with mutation.
 - [words-tui](https://github.com/anze3db/words-tui) - An app for daily writing.
 - [zodiac](https://github.com/darkshapes/zodiac) - AI workflow builder for artists and researchers
+- [meine](https://github.com/Balaji01-4D/meine) - A regex-powered, file manager and system utility.
 
 ## Other resources
 
