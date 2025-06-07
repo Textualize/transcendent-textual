@@ -37,6 +37,7 @@ The aim of this wee document is to try and collect together links to as many [Te
 - [textual-slidecontainer](https://github.com/edward-jazzhands/textual-slidecontainer) - Provides a new container, the `SlideContainer`. Makes it easy to create sliding or hidden menu bars.
 - [textual-slider](https://github.com/TomJGooding/textual-slider) - A Textual widget for a simple slider.
 - [textual-spinbox](https://github.com/friscorose/textual-spinbox) - A Textual spinbox widget (also in pypi).
+- [textual-tags](https://github.com/Zaloog/textual-tags) - A widget for textual to display tags
 - [textual-terminal](https://github.com/mitosch/textual-terminal) - Library that provides a terminal widget; which can be used to embed other terminal applications inside a Textual application.
 - [textual-universal-directorytree](https://github.com/juftin/textual-universal-directorytree) - Textual plugin for a `DirectoryTree` compatible with remote filesystems.
 - [textual-window](https://github.com/edward-jazzhands/textual-window) A widget for a floating, draggable window and included window bar/manager system.
@@ -46,8 +47,10 @@ The aim of this wee document is to try and collect together links to as many [Te
 ## Applications built with Textual
 
 - [avocet](https://github.com/JoshuaOliphant/avocet) - A bookmark manager that interacts with the raindrop.io API.
+- [ayu](https://github.com/Zaloog/ayu) - A TUI to make pytest interactive
 - [baca](https://github.com/wustho/baca) - A TUI Ebook Reader.
 - [bagels](https://github.com/EnhancedJax/Bagels) - Powerful expense tracker that lives in your terminal.
+- [blueutil-tui](https://github.com/Zaloog/blueutil-tui) - tui for Mac to interact with bluetooth devices via blueutil
 - [browsr](https://github.com/juftin/browsr) - A pleasant file explorer in your terminal.
 - [budgetize](https://github.com/fer-hnndz/budgetize) - A Terminal User Interface (TUI) to create budgets, track your incomes/expenses and manage your finances.
 - [close-mongo-ops-manager](https://github.com/closeio/close-mongo-ops-manager) - A simple TUI for monitoring and killing MongoDB operations.
@@ -80,6 +83,7 @@ The aim of this wee document is to try and collect together links to as many [Te
 - [HumBLE Explorer](https://github.com/koenvervloesem/humble-explorer) - A cross-platform, command-line and human-friendly Bluetooth Low Energy scanner.
 - [Ignori](https://github.com/EGAMAGZ/ignori) - Generate .gitignore file without leaving the terminal.
 - [jpterm](https://github.com/davidbrochart/jpterm) - Jupyter in the terminal.
+- [kanban-tui](https://github.com/Zaloog/kanban-tui) - Task Manager with a TUI written in Python
 - [kaskade](https://github.com/sauljabin/kaskade) - A kafka text user interface.
 - [kupo](https://github.com/darrenburns/kupo) - A terminal-based file browser.
 - [langchain-serve](https://github.com/jina-ai/langchain-serve) - babyagi-as-a-service playground.
