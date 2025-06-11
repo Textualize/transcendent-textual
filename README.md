@@ -76,6 +76,7 @@ The aim of this wee document is to try and collect together links to as many [Te
 - [gupshup](https://github.com/kraanzu/gupshup) - A chat application built for the terminal.
 - [Harlequin](https://github.com/tconbeer/harlequin) - A Terminal-based SQL IDE for DuckDB.
 - [hexabyte](https://github.com/thetacom/hexabyte) - A modern, modular, and robust TUI hex editor.
+- [htbpanel](https://github.com/scmanjarrez/htbpanel) - A TUI for [HackTheBox](www.hackthebox.com) to manage and browse machines, and submit flags.
 - [http-tui](https://github.com/treyhunner/http-tui) - A client for testing out HTTP requests.
 - [HumBLE Explorer](https://github.com/koenvervloesem/humble-explorer) - A cross-platform, command-line and human-friendly Bluetooth Low Energy scanner.
 - [Ignori](https://github.com/EGAMAGZ/ignori) - Generate .gitignore file without leaving the terminal.
