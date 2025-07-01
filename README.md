@@ -144,6 +144,7 @@ The aim of this wee document is to try and collect together links to as many [Te
 - [visual-selection](https://github.com/davep/visual-selection) - A terminal-based visualisation of natural selection with mutation.
 - [words-tui](https://github.com/anze3db/words-tui) - An app for daily writing.
 - [zodiac](https://github.com/darkshapes/zodiac) - AI workflow builder for artists and researchers
+- [ticked](https://github.com/cachebag/Ticked) - Terminal based productivity tool with access to Spotify and a built-in code editor.
 
 ## Other resources
 
