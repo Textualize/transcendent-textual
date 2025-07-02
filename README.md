@@ -114,6 +114,7 @@ The aim of this wee document is to try and collect together links to as many [Te
 - [shira](https://github.com/darrenburns/shira) - A Python object inspector.
 - [skylab](https://github.com/SerhiiStets/skylab) - A TUI for showing latest upcoming rocket launches.
 - [smassh](https://github.com/kraanzu/smassh) - Smassh your Keyboard, TUI Edition.
+- [spegel](https://github.com/simedw/spegel) - A Terminal Browser That Uses LLMs to Rewrite Webpages
 - [sphoin](https://github.com/Parsecom/sphoin) - A TUI for [sphoin.app](https://sphoin.app)
 - [Spiel](https://github.com/JoshKarpel/spiel) - A terminal-based presentation tool where you build your slides using Python functions.
 - [sqint](https://github.com/cdelker/sqint) - A texutal-based terminal application for viewing, querying, and modifying SQLite databases.
