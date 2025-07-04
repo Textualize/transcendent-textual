@@ -40,6 +40,7 @@ The aim of this wee document is to try and collect together links to as many [Te
 - [textual-slider](https://github.com/TomJGooding/textual-slider) - A Textual widget for a simple slider.
 - [textual-spinbox](https://github.com/friscorose/textual-spinbox) - A Textual spinbox widget (also in pypi).
 - [textual-tags](https://github.com/Zaloog/textual-tags) - A widget for textual to display tags
+- [textual-timepiece](https://github.com/ddkasa/textual-timepiece) - Library providing various time related widgets, including date pickers, timelines and extras.
 - [textual-terminal](https://github.com/mitosch/textual-terminal) - Library that provides a terminal widget; which can be used to embed other terminal applications inside a Textual application.
 - [textual-universal-directorytree](https://github.com/juftin/textual-universal-directorytree) - Textual plugin for a `DirectoryTree` compatible with remote filesystems.
 - [textual-window](https://github.com/edward-jazzhands/textual-window) A widget for a floating, draggable window and included window bar/manager system.
