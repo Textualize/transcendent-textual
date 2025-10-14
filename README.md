@@ -112,8 +112,9 @@ effects for your widgets. Includes blinds, curtains, fire, Matrix, and more.
 - [PISpy](https://github.com/davep/pispy) - A simple client for looking up package information in the Python package index.
 - [Pocker](https://github.com/pommee/Pocker) - TUI based application for docker related tasks.
 - [Posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
-- [prune-envs](https://github.com/davidfokkema/prune-envs) - Prune (conda) Environments.
 - [pqviewer](https://github.com/thread53/pqviewer) - View Apache Parquet files in your terminal.
+- [prune-envs](https://github.com/davidfokkema/prune-envs) - Prune (conda) Environments.
+- [purdy](https://github.com/cltrudeau/purdy) - Program and library for presenting and teaching code
 - [Quizzical](https://github.com/davep/quizzical) - A terminal-based trivia quiz.
 - [RecoverPy](https://github.com/PabloLec/RecoverPy) - A file-recovery too for GNU/Linux.
 - [rexi](https://github.com/royreznik/rexi) - Terminal UI for Regex Testing.
