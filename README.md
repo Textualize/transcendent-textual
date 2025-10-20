@@ -34,6 +34,7 @@ effects for your widgets. Includes blinds, curtains, fire, Matrix, and more.
 - [textual-image](https://github.com/lnqs/textual-image) - A module to render images in Textual via Terminal Graphics Protocol and Sixel.
 - [textual-hires-canvas](https://github.com/davidfokkema/textual-hires-canvas) - High-resolution drawing canvas for Textual apps.
 - [textual-imageview](https://github.com/adamviola/textual-imageview) - Terminal-based image-viewing widget library and application.
+- [textual-jumper](https://github.com/Zaloog/textual-jumper) - A widget to add jump navigations to your textual app
 - [textual-pandas](https://github.com/dannywade/textual-pandas) - A module to display Pandas dataframes in Textual.
 - [textual-pdf](https://github.com/NSPC911/textual-pdf) - A basic Textual widget that allows previewing PDF files using `textual-image`
 - [textual-plot](https://github.com/davidfokkema/textual-plot) - A native plotting widget for Textual apps with zooming/panning support.
