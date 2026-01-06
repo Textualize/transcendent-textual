@@ -109,6 +109,7 @@ effects for your widgets. Includes blinds, curtains, fire, Matrix, and more.
 - [OSHit](https://github.com/davep/oshit) - A HackerNews reader for the terminal.
 - [ParLlama](https://github.com/paulrobello/parllama) - Terminal based UI for interfacing with and managing Ollama models.
 - [parq-inspector](https://github.com/jkausti/parq-inspector) - Parquet viewer for your terminal.
+- [pinentry-tmux](https://github.com/qualIP/pinentry-tmux) - pinentry-tmux is a pinentry application for TTY and tmux use.
 - [PISpy](https://github.com/davep/pispy) - A simple client for looking up package information in the Python package index.
 - [Pocker](https://github.com/pommee/Pocker) - TUI based application for docker related tasks.
 - [Posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
