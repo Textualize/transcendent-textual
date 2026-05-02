@@ -47,6 +47,7 @@ effects for your widgets. Includes blinds, curtains, fire, Matrix, and more.
 - [textual-terminal](https://github.com/mitosch/textual-terminal) - Library that provides a terminal widget; which can be used to embed other terminal applications inside a Textual application.
 - [textual-universal-directorytree](https://github.com/juftin/textual-universal-directorytree) - Textual plugin for a `DirectoryTree` compatible with remote filesystems.
 - [textual-window](https://github.com/edward-jazzhands/textual-window) A widget for a floating, draggable window and included window bar/manager system.
+- [textual-wizard](https://github.com/SkwalExe/textual-wizard) A library enabling your console application to ask for user input through a modern terminal-intergrated text-based wizard. 
 - [tuilwindcss](https://github.com/koaning/tuilwindcss) - A project inspired by tailwind.css to offer a similar set of classes that can be used directly to construct TUI apps with Textual.
 - [zandev_textual_widgets](https://github.com/ZandevOxford/zandev_textual_widgets) - Custom widgets for Textual.
 
