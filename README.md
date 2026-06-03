@@ -63,6 +63,7 @@ effects for your widgets. Includes blinds, curtains, fire, Matrix, and more.
 - [code-puppy](https://github.com/mpfaffenberger/code_puppy) - Agentic AI code writing tool with a TUI interface
 - [close-mongo-ops-manager](https://github.com/closeio/close-mongo-ops-manager) - A simple TUI for monitoring and killing MongoDB operations.
 - [coBib](https://gitlab.com/cobib/cobib) - A simple, command-line based bibliography management tool.
+- [Cronboard](https://cronboard.dev/) - A terminal dashboard for monitoring and managing cron jobs.
 - [Datadog QA](https://datadoghq.dev/ddqa/) - Datadog's QA manager for releases of GitHub repositories.
 - [dcmetro](https://github.com/HarunFeraidon/dcmetro) - Command line app for sending commands to get live information on the DC Metro.
 - [django-tui](https://github.com/anze3db/django-tui) - Inspect and run Django Commands in a text-based user interface.
