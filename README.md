@@ -97,6 +97,7 @@ effects for your widgets. Includes blinds, curtains, fire, Matrix, and more.
 - [kaskade](https://github.com/sauljabin/kaskade) - A kafka text user interface.
 - [kupo](https://github.com/darrenburns/kupo) - A terminal-based file browser.
 - [langchain-serve](https://github.com/jina-ai/langchain-serve) - babyagi-as-a-service playground.
+- [livetennis-tui](https://github.com/livetennisapi/livetennis-tui) - Live tennis scores, fixtures and player search in your terminal.
 - [lsp-devtools](https://github.com/swyddfa/lsp-devtools) - Tooling for working with language servers and clients.
 - [Lugus](https://github.com/OpenCode/lugus) - A feed reader for the terminal.
 - [mandelexp](https://github.com/davep/textual-mandelbrot) - A Textual Mandelbrot explorer for the terminal.
