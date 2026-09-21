@@ -121,6 +121,7 @@ effects for your widgets. Includes blinds, curtains, fire, Matrix, and more.
 - [RichColorPicker](https://github.com/PlusPlusMan/RichColorPicker) - Terminal-based color picker with rich color palette.
 - [Secret Santa](https://github.com/rodrigogiraoserrao/Secret-Santa) - Secret Santa drawing tool for the terminal.
 - [shira](https://github.com/darrenburns/shira) - A Python object inspector.
+- [Skiller](https://github.com/fredycampino/skiller) - Run, resume, and inspect durable agentic workflows from the terminal.
 - [skylab](https://github.com/SerhiiStets/skylab) - A TUI for showing latest upcoming rocket launches.
 - [smassh](https://github.com/kraanzu/smassh) - Smassh your Keyboard, TUI Edition.
 - [spegel](https://github.com/simedw/spegel) - A Terminal Browser That Uses LLMs to Rewrite Webpages
