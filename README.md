@@ -71,6 +71,7 @@ effects for your widgets. Includes blinds, curtains, fire, Matrix, and more.
 - [Dooit](https://github.com/kraanzu/dooit) - A todo manager which you didn't ask for but needed.
 - [DooPass](https://github.com/doopath/PasswordManager) - A minimalistic TUI password manager.
 - [dotenvhub](https://github.com/Zaloog/dotenvhub) - Terminal App to centrally manage .env files.
+- [dtflow](https://github.com/KenyonY/dtflow) - A terminal browser for LLM training data (SFT/DPO/agent JSONL): samples rendered as conversations, full-file search and filters, mouse support, windowed loading for large files.
 - [dunce](https://github.com/mj2p/dunce) - A simple note taking application.
 - [Elia](https://github.com/darrenburns/elia) - A terminal ChatGPT client built with Textual.
 - [evolve-words](https://github.com/davep/evolve-words) - A terminal-based visualisation of evolution through mutation and natural selection.
