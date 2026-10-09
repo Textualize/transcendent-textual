@@ -101,6 +101,7 @@ effects for your widgets. Includes blinds, curtains, fire, Matrix, and more.
 - [Lugus](https://github.com/OpenCode/lugus) - A feed reader for the terminal.
 - [mandelexp](https://github.com/davep/textual-mandelbrot) - A Textual Mandelbrot explorer for the terminal.
 - [meine](https://github.com/Balaji01-4D/meine) - A fast, Textual-powered CLI file manager and system utility with smart commands and rich UI.
+- [mihomo-py](https://github.com/KenyonY/mihomo-py) - A Textual TUI for managing mihomo proxy subscriptions, nodes and logs on Linux servers.
 - [mlauncher-cli](https://github.com/drHyperion451/mlauncher-cli) - Master Launcher: A classic-like launcher for the Master Levels of Doom2.
 - [moulti](https://github.com/xavierog/moulti) - Moulti is a CLI-driven Terminal User Interface (TUI) that enables you to assign the numerous lines emitted by your scripts to visual, collapsible blocks called steps.
 - [moneyterm](https://github.com/ChrisBuilds/moneyterm) - TUI expense and budget tracker.
